@@ -2,8 +2,6 @@
 
 A simple mobile application to track and categorize personal expenses with visual spending insights.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Marvin-Cerdas-Dev/basic-expense-tracker)
-
 ## 🖥️ Project Overview
 
 **Basic Expense Tracker** is a mobile application designed to help users:
